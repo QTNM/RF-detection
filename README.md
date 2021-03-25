@@ -1,2 +1,2 @@
 # RF-detection
-Matlab programs for rf detection system
+Matlab simulation for rf detection system
